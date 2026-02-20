@@ -1,0 +1,133 @@
+LIBRARY REPORT
+Generated: 2026-02-20 13:56:28
+============================================================
+Summary
+------------------------------------------------------------
+Total Books: 111
+By Status:
+  - Available: 45
+  - Reading: 29
+  - Finished: 37
+By Genre:
+  - Fiction: 17
+  - Non-Fiction: 17
+  - Sci-Fi: 8
+  - Self-Help: 22
+  - Programming: 16
+  - History: 14
+  - Biography: 11
+  - Other: 6
+============================================================
+Book List (sorted by title)
+------------------------------------------------------------
+1984 | George Orwell | Fiction | 1949 | Available
+A Brief History of Time | Stephen Hawking | Non-Fiction | 1988 | Finished
+Atomic Habits | James Clear | Self-Help | 2018 | Available
+Clean Code | Robert C. Martin | Programming | 2008 | Finished
+Cracking the Coding Interview | Gayle Laakmann McDowell | Programming | 2015 | Reading
+Deep Work | Cal Newport | Self-Help | 2016 | Reading
+Dune | Frank Herbert | Sci-Fi | 1965 | Reading
+Educated | Tara Westover | Biography | 2018 | Finished
+Eloquent JavaScript | Marijn Haverbeke | Programming | 2018 | Available
+Empire Chronicles (Vol. 1) | N. Karim | History | 2000 | Finished
+Empire Chronicles (Vol. 3) | N. Karim | History | 1950 | Finished
+Empire Chronicles (Vol. 4) | N. Karim | History | 1960 | Finished
+Empire Chronicles (Vol. 4) | N. Karim | History | 1990 | Finished
+Empire Chronicles (Vol. 7) | N. Karim | History | 1972 | Finished
+Empire Chronicles (Vol. 8) | N. Karim | History | 1970 | Available
+Empire Chronicles (Vol. 8) | N. Karim | History | 2017 | Finished
+Empire Chronicles (Vol. 8) | N. Karim | History | 2004 | Finished
+Empire Chronicles (Vol. 9) | N. Karim | History | 2021 | Available
+Everyday Economics (Vol. 4) | F. Hossain | Non-Fiction | 2022 | Reading
+Everyday Economics (Vol. 5) | F. Hossain | Non-Fiction | 1959 | Reading
+Everyday Economics (Vol. 7) | F. Hossain | Non-Fiction | 2009 | Finished
+Everyday Economics (Vol. 7) | F. Hossain | Non-Fiction | 1999 | Available
+Everyday Economics (Vol. 9) | F. Hossain | Non-Fiction | 1979 | Reading
+Everyday Economics (Vol. 9) | F. Hossain | Non-Fiction | 1989 | Finished
+Foundation | Isaac Asimov | Sci-Fi | 1951 | Reading
+Guns, Germs, and Steel | Jared Diamond | History | 1997 | Available
+Harry Potter and the Sorcerer's Stone | J.K. Rowling | Fiction | 1997 | Available
+Head First Design Patterns | Eric Freeman & Elisabeth Robson | Programming | 2004 | Available
+I, Robot | Isaac Asimov | Sci-Fi | 1950 | Finished
+Introduction to Algorithms | Cormen, Leiserson, Rivest, Stein | Programming | 2009 | Available
+Learning Data Science (Vol. 3) | S. Ahmed | Programming | 1999 | Finished
+Learning Data Science (Vol. 4) | S. Ahmed | Programming | 1990 | Reading
+Learning Data Science (Vol. 4) | S. Ahmed | Programming | 1977 | Reading
+Learning Data Science (Vol. 5) | S. Ahmed | Programming | 1977 | Available
+Learning Data Science (Vol. 7) | S. Ahmed | Programming | 2017 | Finished
+Learning Data Science (Vol. 7) | S. Ahmed | Programming | 1956 | Finished
+Learning Data Science (Vol. 8) | S. Ahmed | Programming | 1979 | Reading
+Life of a Pioneer (Vol. 1) | T. Islam | Biography | 1953 | Finished
+Life of a Pioneer (Vol. 1) | T. Islam | Biography | 1986 | Finished
+Life of a Pioneer (Vol. 3) | T. Islam | Biography | 1950 | Finished
+Life of a Pioneer (Vol. 4) | T. Islam | Biography | 1989 | Available
+Life of a Pioneer (Vol. 5) | T. Islam | Biography | 1985 | Available
+Life of a Pioneer (Vol. 9) | T. Islam | Biography | 1995 | Reading
+Man's Search for Meaning | Viktor E. Frankl | Non-Fiction | 1946 | Finished
+Mindful Focus (Vol. 1) | R. Hasan | Self-Help | 2008 | Reading
+Mindful Focus (Vol. 1) | R. Hasan | Self-Help | 1984 | Available
+Mindful Focus (Vol. 2) | R. Hasan | Self-Help | 1977 | Reading
+Mindful Focus (Vol. 2) | R. Hasan | Self-Help | 2022 | Reading
+Mindful Focus (Vol. 2) | R. Hasan | Self-Help | 2022 | Finished
+Mindful Focus (Vol. 3) | R. Hasan | Self-Help | 1978 | Reading
+Mindful Focus (Vol. 3) | R. Hasan | Self-Help | 1971 | Available
+Mindful Focus (Vol. 3) | R. Hasan | Self-Help | 1990 | Available
+Mindful Focus (Vol. 3) | R. Hasan | Self-Help | 2004 | Reading
+Mindful Focus (Vol. 4) | R. Hasan | Self-Help | 1983 | Reading
+Mindful Focus (Vol. 6) | R. Hasan | Self-Help | 2014 | Available
+Mindful Focus (Vol. 6) | R. Hasan | Self-Help | 1995 | Finished
+Mindful Focus (Vol. 7) | R. Hasan | Self-Help | 1994 | Finished
+Mindful Focus (Vol. 8) | R. Hasan | Self-Help | 2009 | Reading
+Mindful Focus (Vol. 8) | R. Hasan | Self-Help | 1991 | Available
+Mindful Focus (Vol. 8) | R. Hasan | Self-Help | 2000 | Available
+Mindful Focus (Vol. 9) | R. Hasan | Self-Help | 2020 | Finished
+Miscellaneous Notes (Vol. 2) | Unknown | Other | 1958 | Available
+Miscellaneous Notes (Vol. 2) | Unknown | Other | 1961 | Available
+Miscellaneous Notes (Vol. 5) | Unknown | Other | 1995 | Finished
+Miscellaneous Notes (Vol. 5) | Unknown | Other | 1970 | Reading
+Miscellaneous Notes (Vol. 7) | Unknown | Other | 1990 | Reading
+Miscellaneous Notes (Vol. 7) | Unknown | Other | 2001 | Reading
+Neuromancer | William Gibson | Sci-Fi | 1984 | Available
+Ocean of Stars (Vol. 1) | M. Chowdhury | Sci-Fi | 1983 | Available
+Ocean of Stars (Vol. 4) | M. Chowdhury | Sci-Fi | 2021 | Available
+Ocean of Stars (Vol. 5) | M. Chowdhury | Sci-Fi | 1956 | Reading
+Pride and Prejudice | Jane Austen | Fiction | 1813 | Available
+Python Crash Course | Eric Matthes | Programming | 2015 | Finished
+Rework | Jason Fried & David Heinemeier Hansson | Non-Fiction | 2010 | Available
+Rich Dad Poor Dad | Robert T. Kiyosaki | Non-Fiction | 1997 | Available
+Sapiens | Yuval Noah Harari | History | 2011 | Reading
+Steve Jobs | Walter Isaacson | Biography | 2011 | Available
+Surely You're Joking, Mr. Feynman! | Richard Feynman | Biography | 1985 | Available
+Team of Rivals | Doris Kearns Goodwin | History | 2005 | Available
+The 7 Habits of Highly Effective People | Stephen R. Covey | Self-Help | 1989 | Finished
+The Alchemist | Paulo Coelho | Fiction | 1988 | Reading
+The Art of Computer Programming | Donald E. Knuth | Programming | 1968 | Available
+The Art of War | Sun Tzu | History | 500 | Available
+The Catcher in the Rye | J.D. Salinger | Fiction | 1951 | Reading
+The Code Book | Simon Singh | Non-Fiction | 1999 | Available
+The Design of Everyday Things | Don Norman | Non-Fiction | 1988 | Finished
+The Diary of a Young Girl | Anne Frank | Biography | 1947 | Finished
+The Great Gatsby | F. Scott Fitzgerald | Fiction | 1925 | Finished
+The Hobbit | J.R.R. Tolkien | Fiction | 1937 | Finished
+The Innovators | Walter Isaacson | Non-Fiction | 2014 | Available
+The Lean Startup | Eric Ries | Non-Fiction | 2011 | Reading
+The Little Prince | Antoine de Saint-Exupéry | Fiction | 1943 | Finished
+The Martian | Andy Weir | Sci-Fi | 2011 | Available
+The Name of the Wind | Patrick Rothfuss | Fiction | 2007 | Available
+The Phoenix Project | Gene Kim, Kevin Behr, George Spafford | Programming | 2013 | Reading
+The Power of Habit | Charles Duhigg | Self-Help | 2012 | Available
+The Pragmatic Programmer | Andrew Hunt & David Thomas | Programming | 1999 | Available
+The Psychology of Money | Morgan Housel | Non-Fiction | 2020 | Available
+The Road | Cormac McCarthy | Fiction | 2006 | Available
+The Silent City (Vol. 1) | A. Rahman | Fiction | 1983 | Reading
+The Silent City (Vol. 2) | A. Rahman | Fiction | 1995 | Finished
+The Silent City (Vol. 2) | A. Rahman | Fiction | 2000 | Available
+The Silent City (Vol. 4) | A. Rahman | Fiction | 1971 | Available
+The Silent City (Vol. 5) | A. Rahman | Fiction | 2010 | Finished
+The Silent City (Vol. 7) | A. Rahman | Fiction | 2020 | Reading
+The Silk Roads | Peter Frankopan | History | 2015 | Finished
+The Subtle Art of Not Giving a F*ck | Mark Manson | Self-Help | 2016 | Available
+The Wright Brothers | David McCullough | Biography | 2015 | Available
+Thinking, Fast and Slow | Daniel Kahneman | Non-Fiction | 2011 | Available
+To Kill a Mockingbird | Harper Lee | Fiction | 1960 | Finished
+Zero to One | Peter Thiel | Non-Fiction | 2014 | Finished
